@@ -25,10 +25,7 @@ nav #ul {
   
 }
 
-nav {
-  position: top;
-  padding: 10px;
-  height: 50px;
-  width: 100%;
-  background-color: #e6b800;
+.navigation {
+  text-align: center;
+  color:magenta;
 }
