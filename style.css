@@ -1,3 +1,11 @@
-.weird {
-  color:orange;
+.title {
+  color: yellow;
+}
+
+.content {
+  color: yellow;
+}
+
+html {
+  background-color: black;
 }
