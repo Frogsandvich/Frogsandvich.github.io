@@ -1,16 +1,16 @@
 .title {
   text-align: center;
-  color: white;
+  color: black;
   margin: 40px;
 }
 
 .content {
   text-align: center;
-  color: white;
+  color: black;
 }
 
 html {
-  background-color: black;
+  background-color: white;
 }
 
 .image {
@@ -31,6 +31,6 @@ nav #ul {
 }
 
 #id {
-  color: white; 
+  color: black; 
 }
 }
