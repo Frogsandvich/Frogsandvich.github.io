@@ -4,19 +4,17 @@
     <link rel="icon" type="image/png" href=""
     <meta charset="UTF-8">
   </head>
-  <body>
+  <body onload="onload()">
     <h1 class="title">Welcome to a <b><i>test</i></b> website!</h1>
     <script>
-    "Troy".length
+    function onload() {
+      alert()"Troy.length";
+    }
     </script>
     <br>
     <br>
     <p class="content">Nothing here will be permanent as this is a <b><i>test</i></b> website, so don't feel bad if anything you like is gone!</p>
     <p class="content">Feel free to take a look around as you please</p>
     <br>
-    <button type="button"
-    onclick="document.getElementById('d&t').innerHTML = Date()">
-    Click me to display Date and Time.</button>
-    <h2 id="d&t"></h2>
   </body>
 </html>
