@@ -6,14 +6,16 @@
   </head>
   <body onload="onload()">
     <h1 class="title">Welcome to a <b><i>test</i></b> website!</h1>
-    <script>
-    
-    </script>
     <input type="form">
+    <button type="button" onclick="onbuttonclick()"></button>
     <br>
     <br>
     <p class="content">Nothing here will be permanent as this is a <b><i>test</i></b> website, so don't feel bad if anything you like is gone!</p>
     <p class="content">Feel free to take a look around as you please</p>
-    <br>
+    <script> function onbuttonclick() { 
+    var text = document.getElementById("name").innerHTML;
+    alert("Hello!"+text);
+    }
+    </script>
   </body>
 </html>
