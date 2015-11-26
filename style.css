@@ -1,10 +1,10 @@
-.Title {
+.title {
   text-align: center;
   color: magenta;
   margin: 40px;
 }
 
-.Content {
+.content {
   text-align: center;
   color: magenta;
 }
@@ -13,7 +13,7 @@ html {
   background-color: black;
 }
 
-.Image {
+.image {
   position: center;
 }
 
