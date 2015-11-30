@@ -1,0 +1,22 @@
+html {
+	background-color:black;	
+}
+h1, p, h3, li {
+	color:white;
+	text-align:center;
+}
+.footer {
+	height:20px;
+	margin-top:580px;
+	width:100%;
+	background-color:grey;
+	padding-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	padding-left:5px;
+	padding-right:5px;
+	text-align:center;
+}
+.footer-content {
+	font-size:12px	
+}
