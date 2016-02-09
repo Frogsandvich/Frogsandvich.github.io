@@ -2,10 +2,7 @@ html {
   background-color: #F5F5F2;  
 }
 h1 {
-  padding-top:25px;
+  margin-top:25px;
   color:#990000;
-  padding-left:125px;
-  background-color: #1a1a1a;
-  margin-left:0px;
-  padding-right:50px;
+  margin-left:250px;
 }
