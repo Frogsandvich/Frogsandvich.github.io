@@ -24,7 +24,7 @@ nav > ul > li > a {
   background-color:#3399ff;
   display: block;
   line-height: 2em;
-  padding: 0.5em 0.5em;
+  padding:none;
   text-decoration: none;
 }
 nav ul li:hover {
