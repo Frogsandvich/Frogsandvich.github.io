@@ -6,12 +6,11 @@ h1, p {
   color:#3399ff;
   margin-left:250px;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 60px;
-} 
-li a {
+li {
+    float: left;
+}
+a {
     display: block;
+    padding: 8px;
+    background-color: #3399ff;
 }
