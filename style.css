@@ -31,3 +31,6 @@ li a:hover {
 .active {
     background-color: #0073e6;
 }
+.search {
+    float:right;
+}
