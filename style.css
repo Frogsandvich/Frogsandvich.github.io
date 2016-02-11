@@ -1,5 +1,7 @@
-html {
-  background-color: #ffffff;  
+html, body {
+  background-color: #ffffff;
+  padding: 0;
+  margin: 0;
 }
 h1, p {
   margin-top:25px;
