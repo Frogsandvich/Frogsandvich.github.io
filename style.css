@@ -38,5 +38,18 @@ li a:hover {
     background-color:333;
 }
 .right {
-  float:right;
+   float:right;
+}
+.textbox input {
+     background-color:transparent;
+     border:none;
+     padding:5px;
+     font-family: Raleway, sans-serif;
+     border-bottom:white 2px solid;
+     color:white;
+     margin-top:11px;
+     margin-right:5px;
+}
+.texbox input:focus {
+    outline:none;
 }
