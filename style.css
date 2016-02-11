@@ -34,3 +34,6 @@ li a:hover {
 .search {
     float:right;
 }
+.search:hover {
+    background-color:333;
+}
