@@ -8,4 +8,5 @@ h1, p {
 }
 nav ul {
   list-style:none;
+  display:block;
 }
