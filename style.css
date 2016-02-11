@@ -10,3 +10,6 @@ nav ul {
   list-style:none;
   display:block;
 }
+li a {
+  display:block;
+}
