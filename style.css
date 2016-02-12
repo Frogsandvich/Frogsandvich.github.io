@@ -97,7 +97,9 @@ li a:hover {
     bottom: 0;
     left: 0;
     padding: 1rem;
+    text-align:center;
 }
 .bottombar h1 {
     color:white;
+    text-align:center;
 }
