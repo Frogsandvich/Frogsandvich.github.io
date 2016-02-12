@@ -99,7 +99,7 @@ li a:hover {
     padding: 1rem;
     text-align:center;
 }
-.bottombar h1 h2 h3 h4 h5 h6 {
+.bottombar h1 h2 h3 h4 h5 h6 p {
     color:white;
     margin-left:0px;
 }
@@ -107,7 +107,7 @@ li a:hover {
     background-color: #3399ff;
     text-align:center;
 }
-.bar h1 h2 h3 h4 h5 h6 {
+.bar h1 h2 h3 h4 h5 h6 p {
   color:white;
 }
 .barWhite {
