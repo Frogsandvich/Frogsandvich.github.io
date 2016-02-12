@@ -115,5 +115,5 @@ li a:hover {
   color:white;
 }
 .fancypage {
-  background-image:url="http://www.photos-public-domain.com/wp-content/uploads/2011/02/black-vertical-siding-texture.jpg";
+  background-image:url("http://www.photos-public-domain.com/wp-content/uploads/2011/02/black-vertical-siding-texture.jpg");
 }
