@@ -110,6 +110,8 @@ li a:hover {
 }
 .barWhite {
   background-color:white;
+  left:1;
+  width:25%;
 }
 .barWhite h1 h2 h3 h4 h5 h6 p {
   color:white;
