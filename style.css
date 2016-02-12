@@ -92,7 +92,11 @@ li a:hover {
 }
 .bottombar {
     background-color: #3399ff;
-    margin-bottom:0px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
 }
 .bottombar h1 {
     color:white;
