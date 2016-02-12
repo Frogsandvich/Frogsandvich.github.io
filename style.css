@@ -60,24 +60,19 @@ li a:hover {
     animation-duration: 4s;
     animation-iteration-count: infinite;
 }
-
-/* Chrome, Safari, Opera */
 @-webkit-keyframes example {
     0%   {background-color: red;}
     25%  {background-color: yellow;}
     50%  {background-color: blue;}
     100% {background-color: green;}
 }
-
-/* Standard syntax */
 @keyframes example {
     0%   {background-color: red;}
     25%  {background-color: yellow;}
     50%  {background-color: blue;}
     100% {background-color: green;}
-
 }
-.rainbownav ul {
+.vertnav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -85,16 +80,13 @@ li a:hover {
     height: 1080px;
     background-color: #f1f1f1;
 }
-
-.raninbownav li a {
+.vertnav li a {
     display: block;
     color: #000;
     padding: 8px 0 8px 16px;
     text-decoration: none;
 }
-
-/* Change the link color on hover */
-.rainbownav li a:hover {
+.vertnav li a:hover {
     background-color: #555;
     color: white;
 }
