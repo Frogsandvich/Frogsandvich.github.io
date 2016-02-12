@@ -77,3 +77,23 @@ li a:hover {
     100% {background-color: green;}
 
 }
+.rainbownav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.raninbownav li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+.rainbownav li a:hover {
+    background-color: #555;
+    color: white;
+}
