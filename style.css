@@ -103,3 +103,10 @@ li a:hover {
     color:white;
     margin-left:0px;
 }
+.bar {
+    background-color: #3399ff;
+    text-align:center;
+}
+.bar h1 h2 h3 h4 h5 h6 {
+  color:white;
+}
