@@ -28,9 +28,6 @@ li a {
 li a:hover {
     background-color: 333;
 }
-.active {
-    background-color: 333;
-}
 .search {
     float:right;
 }
