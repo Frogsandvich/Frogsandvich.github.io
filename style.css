@@ -51,8 +51,8 @@ li a:hover {
     outline:none;
 }
 .rainbow {
-    width: 1920px;
-    height: 1080px;
+    width: 100px;
+    height: 100px;
     background-color: red;
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
