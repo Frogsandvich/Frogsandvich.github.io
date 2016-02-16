@@ -87,8 +87,8 @@ li a:hover {
     text-decoration: none;
 }
 .vertnav li a:hover {
-    background-color: #555;
-    color: white;
+    color:white;
+    border: white;
 }
 .bottombar {
     background-color: #3399ff;
