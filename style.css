@@ -27,6 +27,7 @@ li a {
 }
 li a:hover {
     background-color:white;
+    color:#3399ff;
 }
 .search {
     float:right;
