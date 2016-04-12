@@ -62,13 +62,13 @@ body {
         text-align: center;
         transition: 0.5s color;
     }
-    a:hover {
+    .fixed a:hover {
         color: black;
     }
-    a {
+    .fixed a {
         color: white;
     }
-    a:visited {
+    .fixed a:visited {
         color:white;
     }
     .rainbow {
