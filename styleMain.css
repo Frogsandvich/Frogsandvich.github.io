@@ -219,6 +219,7 @@ body {
         color: white;
     }
     .display {
+        font-weight:bold;
         text-align:center;
         list-style:none;
     }
