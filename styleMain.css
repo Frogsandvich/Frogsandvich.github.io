@@ -38,9 +38,9 @@ body {
     background-color: lightgrey;
     color: white;
 }
-.nav a .active {
+.active a {
     background-color: lightgrey;
-    color: black;
+    color: white;
     cursor: default;
 }
 @media screen and (min-width: 600px) {
