@@ -35,12 +35,12 @@ body {
 */
 
 .nav a:hover {
-    background-color: grey;
+    background-color: lightgrey
     color: white;
 }
-.nav a.active {
-    background-color: purple;
-    color: white;
+.nav a:active {
+    background-color: lightgrey;
+    color: black;
     cursor: default;
 }
 @media screen and (min-width: 600px) {
