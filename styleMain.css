@@ -63,7 +63,7 @@ body {
         transition: 1s color;
     }
     a:hover {
-        color: lightgrey;
+        color: black;
     }
     .rainbow {
         text-align: center;
