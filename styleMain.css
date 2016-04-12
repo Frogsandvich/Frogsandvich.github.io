@@ -63,10 +63,11 @@ body {
         transition: 0.5s color;
     }
     .fixed:hover {
-        color: black;
+        color: white;
     }
     .fixed {
-        color: white;
+        color: black
+        transition: 0.5s color;
     }
     .fixed:visited {
         color:white;
