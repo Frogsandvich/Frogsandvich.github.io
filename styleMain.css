@@ -38,7 +38,7 @@ body {
     background-color: lightgrey;
     color: white;
 }
-.nav a:active {
+.nav a .active {
     background-color: lightgrey;
     color: black;
     cursor: default;
