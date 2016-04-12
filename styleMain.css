@@ -218,3 +218,7 @@ body {
     .headerText:hover {
         color: white;
     }
+    .display {
+        text-align:center;    
+    }
+    }
