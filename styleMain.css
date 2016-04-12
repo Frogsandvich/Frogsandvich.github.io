@@ -60,10 +60,16 @@ body {
     a,
     h1 {
         text-align: center;
-        transition: 1s color;
+        transition: 0.5s color;
     }
     a:hover {
         color: black;
+    }
+    a {
+        color: white;
+    }
+    a:visited {
+        color:white;
     }
     .rainbow {
         text-align: center;
