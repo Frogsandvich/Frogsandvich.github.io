@@ -57,11 +57,12 @@ body {
     }
     h3,
     p,
+    a,
     h1 {
         text-align: center;
         transition: 1s color;
     }
-    p:hover {
+    a:hover {
         color: lightgrey;
     }
     .rainbow {
