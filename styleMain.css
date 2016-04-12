@@ -70,7 +70,7 @@ body {
         transition: 0.5s color;
     }
     .fixed:visited {
-        color:white;
+        color:black;
     }
     .rainbow {
         text-align: center;
