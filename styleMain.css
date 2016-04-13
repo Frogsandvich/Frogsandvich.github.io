@@ -35,6 +35,41 @@ body {
 */
 
 .nav a:hover {
+    background-color: #cc3300;
+    color: white;
+}
+.BUSnav ul {
+    list-style: none;
+    background-color: #ff3300;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.BUSnav li {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #888;
+}
+/* For slow fade on red nav*/
+
+.BUSnav a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    transition: 1s background-color;
+}
+/* For slow fade on white text	
+.nav a{
+  text-decoration: none;
+  color: black;
+  display: block;
+  transition: 0.75s color;
+}
+*/
+
+.BUSnav a:hover {
     background-color: #3399ff;
     color: white;
 }
