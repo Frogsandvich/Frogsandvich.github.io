@@ -62,10 +62,10 @@ body {
         text-align: center;
         transition: 0.5s color;
     }
-    .fixed:hover {
+    .fixed p:hover {
         color: white;
     }
-    .fixed {
+    .fixed p {
         color: black;
         transition: 0.5s color;
     }
